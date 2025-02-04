@@ -1,0 +1,82 @@
+{
+ "data":[
+  {"diet": [
+    {
+      "id": "1",
+      "category": "Underweight",
+      "title": "Diet Plan",
+      "breakfast": "2 boiled eggs (1g carbs), 1 slice whole-grain toast (20g carbs), 1 medium banana (27g carbs), 1 glass whole milk (12g carbs). Total Carbs: ~60g.",
+      "lunch": "1/2 cup rice, 1 bowl rajmah, 1 tsp olive oil, 1 plate salad.",
+      "snack": "1 banana, 200 ml low-fat milk (banana shake).",
+      "dinner": "2 chapati, 1 bowl paneer bhurji, 1 cup yogurt, 1 plate salad."
+    },
+    {
+      "id": "2",
+      "category": "Normal Weight",
+      "title": "Diet Plan",
+      "breakfast": "1 cup Greek yogurt (8g carbs), 1/2 cup mixed berries (15g carbs), 2 tbsp oats (20g carbs). Total Carbs: ~43g.",
+      "lunch": "Grilled chicken, 1/2 cup brown rice, 1 plate green salad with olive oil dressing.",
+      "snack": "Apple slices (19g carbs) with 1 tbsp peanut butter (3g carbs).",
+      "dinner": "1 cup lentil soup, 1 slice whole-grain bread, 1 cup roasted vegetables."
+    },
+    {
+      "id": "3",
+      "category": "Overweight",
+      "title": "Diet Plan",
+      "breakfast": "2 scrambled eggs (1g carbs), 1 slice whole-grain toast (20g carbs), 1 cup black coffee or green tea (0g carbs). Total Carbs: ~21g.",
+      "lunch": "Grilled chicken breast, 1/2 cup quinoa, green salad with lemon dressing.",
+      "snack": "1/2 cup Greek yogurt with a few almonds.",
+      "dinner": "1 baked fish fillet, 1 cup steamed zucchini, 1/2 cup brown rice."
+    },
+    {
+      "id": "4",
+      "category": "Obese",
+      "title": "Diet Plan",
+      "breakfast": "1 boiled egg (1g carbs), 1/2 avocado (4g carbs), 1 slice whole-grain toast (20g carbs). Total Carbs: ~25g.",
+      "lunch": "1 grilled chicken thigh, large green salad with olive oil, no starchy sides.",
+      "snack": "1 small carrot (6g carbs) with hummus (5g carbs).",
+      "dinner": "1 cup steamed non-starchy vegetables, 1 grilled tofu slice, 1 tsp olive oil for cooking."
+    }
+  ],
+  
+    "exercise": [
+      {
+        "id": "1",
+        "category": "Underweight",
+        "title": "Exercise Plan",
+        "morning": "15 minutes of yoga (light stretching and breathing exercises).",
+        "afternoon": "20 minutes of bodyweight exercises (push-ups, squats, planks).",
+        "evening": "15-minute brisk walk or light jogging.",
+        "notes": "Focus on strength-building exercises with proper calorie intake."
+      },
+      {
+        "id": "2",
+        "category": "Normal Weight",
+        "title": "Exercise Plan",
+        "morning": "20 minutes of yoga or Pilates for flexibility and balance.",
+        "afternoon": "30 minutes of moderate cardio (cycling, jogging, or swimming).",
+        "evening": "15 minutes of strength training (dumbbells, resistance bands).",
+        "notes": "Maintain a balanced routine with equal focus on cardio and strength."
+      },
+      {
+        "id": "3",
+        "category": "Overweight",
+        "title": "Exercise Plan",
+        "morning": "10 minutes of light stretching and 20 minutes of brisk walking.",
+        "afternoon": "25 minutes of moderate cardio (elliptical, swimming, or cycling).",
+        "evening": "15 minutes of bodyweight exercises (squats, lunges, modified push-ups).",
+        "notes": "Prioritize low-impact cardio and gradually increase intensity."
+      },
+      {
+        "id": "4",
+        "category": "Obese",
+        "title": "Exercise Plan",
+        "morning": "15 minutes of light stretching or chair exercises.",
+        "afternoon": "20 minutes of low-impact cardio (walking or stationary cycling).",
+        "evening": "10 minutes of light resistance exercises (resistance bands or seated strength exercises).",
+        "notes": "Start with low-intensity activities and focus on consistency over intensity."
+      }
+    ]
+  }
+] 
+}
