@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar"
 import Footer from "./components/Footer"
 import Hero from "./components/Hero"
 import BMICalculator from './components/BMICalculator.jsx';
-import ResultsPage from './components/Resultspage.jsx';
+import ResultsPage from './components/ResultsPage.jsx';
 import "./App.css"
 import Dietplan from './components/Dietplan.jsx';
 import Login from './pages/Login.jsx';
